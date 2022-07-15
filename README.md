@@ -1,4 +1,3 @@
 # Block-A.I.-V2
 
-The Development of V2 has not been started yet.
-[Join the Discord](https://discord.com/invite/zWFW6yg) to be informed when the Development starts!
+The Development of V2 will not occur as Block A.I. has been deprecated. We will no longer work on V1 nor will we begin developing an V2. 
